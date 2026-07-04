@@ -3,7 +3,6 @@ import 'package:flutter/material.dart';
 class InsuranceScreen1 extends StatelessWidget {
   InsuranceScreen1({super.key});
 
-  // 1. KARTLARIN FƏRQLİ MƏLUMATLARINI SAXLAYAN LİST:
   final List<Map<String, String>> insuranceData = [
     {
       "title": "Family Insurance",
